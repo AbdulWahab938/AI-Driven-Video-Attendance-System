@@ -37,3 +37,4 @@ This project implements a Face Recognition Attendance System using Python and Tk
 
 ## Contributors
 - Abdul Wahab (@AbdulWahab938)
+- Dharshan Patil (@Dharshanpatil)
